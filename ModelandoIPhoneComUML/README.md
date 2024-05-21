@@ -14,6 +14,6 @@ Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 ## Objetivo
 Criar um diagrama UML que represente as funcionalidades descritas acima.
 
-![Logo](https://raw.githubusercontent.com/TatMS/dio-java-basico/main/ModelandoIPhoneComuml/uml/UmlIphone.png)
+![Logo](https://raw.githubusercontent.com/TatMS/dio-java-basico/main/ModelandoIPhoneComUML/UML/UmlIphone.png)
 
 Implementar as classes e interfaces correspondentes em Java.
